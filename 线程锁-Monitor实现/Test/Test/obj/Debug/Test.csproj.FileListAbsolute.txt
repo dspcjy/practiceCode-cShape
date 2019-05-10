@@ -1,0 +1,13 @@
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\15\05\Test\Test\bin\Debug\Test.exe.config
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\15\05\Test\Test\bin\Debug\Test.exe
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\15\05\Test\Test\bin\Debug\Test.pdb
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\15\05\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\15\05\Test\Test\obj\Debug\Test.exe
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\15\05\Test\Test\obj\Debug\Test.pdb
+E:\practiceCode\C#\Zero\Code\Debug\15\05\Test\Test\bin\Debug\Test.exe.config
+E:\practiceCode\C#\Zero\Code\Debug\15\05\Test\Test\bin\Debug\Test.exe
+E:\practiceCode\C#\Zero\Code\Debug\15\05\Test\Test\bin\Debug\Test.pdb
+E:\practiceCode\C#\Zero\Code\Debug\15\05\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\practiceCode\C#\Zero\Code\Debug\15\05\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\practiceCode\C#\Zero\Code\Debug\15\05\Test\Test\obj\Debug\Test.exe
+E:\practiceCode\C#\Zero\Code\Debug\15\05\Test\Test\obj\Debug\Test.pdb
