@@ -1,0 +1,16 @@
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\SL\14\02\Client\Client\bin\Debug\Client.exe.config
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\SL\14\02\Client\Client\bin\Debug\Client.exe
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\SL\14\02\Client\Client\bin\Debug\Client.pdb
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\SL\14\02\Client\Client\obj\Debug\Client.exe
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\SL\14\02\Client\Client\obj\Debug\Client.pdb
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\14\04\Client\Client\bin\Debug\Client.exe.config
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\14\04\Client\Client\bin\Debug\Client.exe
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\14\04\Client\Client\bin\Debug\Client.pdb
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\14\04\Client\Client\obj\Debug\Client.exe
+G:\SVN\mingrisoft_developer\零基础学系列\C#\源码\Code\Debug\14\04\Client\Client\obj\Debug\Client.pdb
+E:\practiceCode\C#\Zero\Code\Debug\14\04\Client\Client\bin\Debug\Client.exe.config
+E:\practiceCode\C#\Zero\Code\Debug\14\04\Client\Client\bin\Debug\Client.exe
+E:\practiceCode\C#\Zero\Code\Debug\14\04\Client\Client\bin\Debug\Client.pdb
+E:\practiceCode\C#\Zero\Code\Debug\14\04\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\practiceCode\C#\Zero\Code\Debug\14\04\Client\Client\obj\Debug\Client.exe
+E:\practiceCode\C#\Zero\Code\Debug\14\04\Client\Client\obj\Debug\Client.pdb
